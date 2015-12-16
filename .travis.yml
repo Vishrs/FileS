@@ -1,2 +1,2 @@
 language: java
-script: ant Server (1)
+script: ant "Server (1)"
